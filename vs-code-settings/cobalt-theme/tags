@@ -1,0 +1,266 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/1bbb18a/
+0	.vscode/launch.json	/^            "args": ["--extensionDevelopmentPath=${workspaceRoot}" ]$/;"	s	array:configurations.0.args
+0	.vscode/launch.json	/^        {$/;"	o	array:configurations
+0	package.json	/^      {$/;"	o	array:contributes.themes
+0	package.json	/^    "Themes"$/;"	s	array:categories
+0	themes/Better Cobalt-color-theme.json	/^        "constant",$/;"	s	array:tokenColors.7.scope
+0	themes/Better Cobalt-color-theme.json	/^        "entity.other.inherited-class",$/;"	s	array:tokenColors.11.scope
+0	themes/Better Cobalt-color-theme.json	/^        "keyword",$/;"	s	array:tokenColors.9.scope
+0	themes/Better Cobalt-color-theme.json	/^        "meta.definition.function",$/;"	s	array:tokenColors.10.scope
+0	themes/Better Cobalt-color-theme.json	/^        "meta.tag",$/;"	s	array:tokenColors.13.scope
+0	themes/Better Cobalt-color-theme.json	/^        "punctuation.definition.template-expression",$/;"	s	array:tokenColors.5.scope
+0	themes/Better Cobalt-color-theme.json	/^        "storage.type",$/;"	s	array:tokenColors.8.scope
+0	themes/Better Cobalt-color-theme.json	/^        "support.class",$/;"	s	array:tokenColors.2.scope
+0	themes/Better Cobalt-color-theme.json	/^        "variable.scss",$/;"	s	array:tokenColors.12.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["comment", "punctuation.definition.comment"],$/;"	s	array:tokenColors.1.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.name.tag.reference"],$/;"	s	array:tokenColors.15.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.other.attribute-name.class"],$/;"	s	array:tokenColors.16.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.other.attribute-name.id"],$/;"	s	array:tokenColors.17.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.other.attribute-name.pseudo-element"],$/;"	s	array:tokenColors.18.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.bold"],$/;"	s	array:tokenColors.25.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.heading punctuation.definition.heading"],$/;"	s	array:tokenColors.23.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.italic"],$/;"	s	array:tokenColors.26.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.raw"],$/;"	s	array:tokenColors.24.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.underline.link"],$/;"	s	array:tokenColors.27.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.attribute-selector"],$/;"	s	array:tokenColors.19.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.jsx.children"],$/;"	s	array:tokenColors.14.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.template.expression", "source meta.embedded"],$/;"	s	array:tokenColors.6.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["string"],$/;"	s	array:tokenColors.3.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["string.regexp"],$/;"	s	array:tokenColors.4.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["support.constant.property-value.css"],$/;"	s	array:tokenColors.21.scope
+0	themes/Better Cobalt-color-theme.json	/^      "scope": ["support.type.property-name"],$/;"	s	array:tokenColors.20.scope
+0	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+1	themes/Better Cobalt-color-theme.json	/^        "entity.name.tag",$/;"	s	array:tokenColors.13.scope
+1	themes/Better Cobalt-color-theme.json	/^        "keyword.operator",$/;"	s	array:tokenColors.9.scope
+1	themes/Better Cobalt-color-theme.json	/^        "meta.class.inheritance",$/;"	s	array:tokenColors.11.scope
+1	themes/Better Cobalt-color-theme.json	/^        "meta.definition entity.name.function",$/;"	s	array:tokenColors.10.scope
+1	themes/Better Cobalt-color-theme.json	/^        "punctuation.section.embedded"$/;"	s	array:tokenColors.5.scope
+1	themes/Better Cobalt-color-theme.json	/^        "storage.modifier",$/;"	s	array:tokenColors.8.scope
+1	themes/Better Cobalt-color-theme.json	/^        "support.type.object.module",$/;"	s	array:tokenColors.7.scope
+1	themes/Better Cobalt-color-theme.json	/^        "support.variable.dom",$/;"	s	array:tokenColors.2.scope
+1	themes/Better Cobalt-color-theme.json	/^        "variable.sass",$/;"	s	array:tokenColors.12.scope
+1	themes/Better Cobalt-color-theme.json	/^      "scope": ["comment", "punctuation.definition.comment"],$/;"	s	array:tokenColors.1.scope
+1	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.template.expression", "source meta.embedded"],$/;"	s	array:tokenColors.6.scope
+1	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+10	themes/Better Cobalt-color-theme.json	/^        "storage.type.interface.ts",$/;"	s	array:tokenColors.9.scope
+10	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+11	themes/Better Cobalt-color-theme.json	/^        "storage.type.interface.tsx",$/;"	s	array:tokenColors.9.scope
+11	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+12	themes/Better Cobalt-color-theme.json	/^        "storage.type.type.js",$/;"	s	array:tokenColors.9.scope
+12	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+13	themes/Better Cobalt-color-theme.json	/^        "storage.type.type.ts",$/;"	s	array:tokenColors.9.scope
+13	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+14	themes/Better Cobalt-color-theme.json	/^        "storage.type.type.tsx",$/;"	s	array:tokenColors.9.scope
+14	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+15	themes/Better Cobalt-color-theme.json	/^        "storage.type.enum.ts",$/;"	s	array:tokenColors.9.scope
+15	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+16	themes/Better Cobalt-color-theme.json	/^        "storage.type.enum.tsx",$/;"	s	array:tokenColors.9.scope
+16	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+17	themes/Better Cobalt-color-theme.json	/^        "storage.modifier.js",$/;"	s	array:tokenColors.9.scope
+17	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+18	themes/Better Cobalt-color-theme.json	/^        "storage.modifier.ts",$/;"	s	array:tokenColors.9.scope
+18	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+19	themes/Better Cobalt-color-theme.json	/^        "storage.modifier.tsx"$/;"	s	array:tokenColors.9.scope
+19	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+2	themes/Better Cobalt-color-theme.json	/^        "entity.name.type",$/;"	s	array:tokenColors.10.scope
+2	themes/Better Cobalt-color-theme.json	/^        "meta.class.inheritance support.type"$/;"	s	array:tokenColors.11.scope
+2	themes/Better Cobalt-color-theme.json	/^        "meta.function storage.type",$/;"	s	array:tokenColors.9.scope
+2	themes/Better Cobalt-color-theme.json	/^        "meta.tag keyword.operator.assignment",$/;"	s	array:tokenColors.13.scope
+2	themes/Better Cobalt-color-theme.json	/^        "support.type",$/;"	s	array:tokenColors.8.scope
+2	themes/Better Cobalt-color-theme.json	/^        "support.variable.object"$/;"	s	array:tokenColors.2.scope
+2	themes/Better Cobalt-color-theme.json	/^        "variable.language.this",$/;"	s	array:tokenColors.7.scope
+2	themes/Better Cobalt-color-theme.json	/^        "variable.other.readwrite.instance.ruby",$/;"	s	array:tokenColors.12.scope
+2	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+20	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+21	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+22	themes/Better Cobalt-color-theme.json	/^    \/\/ Markup$/;"	z	array:tokenColors
+23	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+24	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+25	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+26	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+27	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+28	themes/Better Cobalt-color-theme.json	/^    \/\/ YAML\/JSON$/;"	z	array:tokenColors
+3	themes/Better Cobalt-color-theme.json	/^        "keyword.control.default",$/;"	s	array:tokenColors.7.scope
+3	themes/Better Cobalt-color-theme.json	/^        "meta.class storage.type",$/;"	s	array:tokenColors.9.scope
+3	themes/Better Cobalt-color-theme.json	/^        "meta.function entity.name.function"$/;"	s	array:tokenColors.10.scope
+3	themes/Better Cobalt-color-theme.json	/^        "meta.tag support.class"$/;"	s	array:tokenColors.13.scope
+3	themes/Better Cobalt-color-theme.json	/^        "meta.type.annotation",$/;"	s	array:tokenColors.8.scope
+3	themes/Better Cobalt-color-theme.json	/^        "variable.other.readwrite.class.ruby"$/;"	s	array:tokenColors.12.scope
+3	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+4	themes/Better Cobalt-color-theme.json	/^        "meta.return.type",$/;"	s	array:tokenColors.8.scope
+4	themes/Better Cobalt-color-theme.json	/^        "storage.type.function.arrow.js",$/;"	s	array:tokenColors.9.scope
+4	themes/Better Cobalt-color-theme.json	/^        "variable.language.special.self",$/;"	s	array:tokenColors.7.scope
+4	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+5	themes/Better Cobalt-color-theme.json	/^        "meta.type entity.name.type",$/;"	s	array:tokenColors.8.scope
+5	themes/Better Cobalt-color-theme.json	/^        "storage.type.function.arrow.ts",$/;"	s	array:tokenColors.9.scope
+5	themes/Better Cobalt-color-theme.json	/^        "variable.parameter.function.language.special.self"$/;"	s	array:tokenColors.7.scope
+5	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+6	themes/Better Cobalt-color-theme.json	/^        "meta.return.type entity.name.type"$/;"	s	array:tokenColors.8.scope
+6	themes/Better Cobalt-color-theme.json	/^        "storage.type.function.arrow.tsx",$/;"	s	array:tokenColors.9.scope
+6	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+7	themes/Better Cobalt-color-theme.json	/^        "storage.type.js",$/;"	s	array:tokenColors.9.scope
+7	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+8	themes/Better Cobalt-color-theme.json	/^        "storage.type.ts",$/;"	s	array:tokenColors.9.scope
+8	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+9	themes/Better Cobalt-color-theme.json	/^        "storage.type.tsx",$/;"	s	array:tokenColors.9.scope
+9	themes/Better Cobalt-color-theme.json	/^    {$/;"	o	array:tokenColors
+activityBar.background	themes/Better Cobalt-color-theme.json	/^    "activityBar.background": "#071027",$/;"	s	object:colors
+activityBarBadge.background	themes/Better Cobalt-color-theme.json	/^    "activityBarBadge.background": "#007acc",$/;"	s	object:colors
+args	.vscode/launch.json	/^            "args": ["--extensionDevelopmentPath=${workspaceRoot}" ]$/;"	a	object:configurations.0
+background	themes/Better Cobalt-color-theme.json	/^        "background": "#001221",$/;"	s	object:tokenColors.23.settings
+background	themes/Better Cobalt-color-theme.json	/^        "background": "#263238ff"$/;"	s	object:tokenColors.0.settings
+background	themes/Better Cobalt-color-theme.json	/^        "background": "#8FDDF630"$/;"	s	object:tokenColors.24.settings
+categories	package.json	/^  "categories": [$/;"	a
+colors	themes/Better Cobalt-color-theme.json	/^  "colors": {$/;"	o
+configurations	.vscode/launch.json	/^    "configurations": [$/;"	a
+contributes	package.json	/^  "contributes": {$/;"	o
+description	package.json	/^  "description": "Cobalt, but better",$/;"	s
+displayName	package.json	/^  "displayName": "Better Cobalt",$/;"	s
+editor.background	themes/Better Cobalt-color-theme.json	/^    "editor.background": "#071027",$/;"	s	object:colors
+editor.foreground	themes/Better Cobalt-color-theme.json	/^    "editor.foreground": "#ffffff",$/;"	s	object:colors
+editor.lineHighlightBackground	themes/Better Cobalt-color-theme.json	/^    "editor.lineHighlightBackground": "#00000059",$/;"	s	object:colors
+editor.lineHighlightBorder	themes/Better Cobalt-color-theme.json	/^    "editor.lineHighlightBorder": "#0000",$/;"	s	object:colors
+editor.selectionBackground	themes/Better Cobalt-color-theme.json	/^    "editor.selectionBackground": "#B3653990",$/;"	s	object:colors
+editorGroupHeader.tabsBackground	themes/Better Cobalt-color-theme.json	/^    "editorGroupHeader.tabsBackground": "#030711",$/;"	s	object:colors
+editorGutter.background	themes/Better Cobalt-color-theme.json	/^    "editorGutter.background": "#FFFFFF12",$/;"	s	object:colors
+editorLineNumber.foreground	themes/Better Cobalt-color-theme.json	/^    "editorLineNumber.foreground": "#364350",$/;"	s	object:colors
+engines	package.json	/^  "engines": {$/;"	o
+fontStyle	themes/Better Cobalt-color-theme.json	/^        "fontStyle": "bold",$/;"	s	object:tokenColors.23.settings
+fontStyle	themes/Better Cobalt-color-theme.json	/^        "fontStyle": "bold",$/;"	s	object:tokenColors.25.settings
+fontStyle	themes/Better Cobalt-color-theme.json	/^        "fontStyle": "italic",$/;"	s	object:tokenColors.1.settings
+fontStyle	themes/Better Cobalt-color-theme.json	/^        "fontStyle": "italic",$/;"	s	object:tokenColors.11.settings
+fontStyle	themes/Better Cobalt-color-theme.json	/^        "fontStyle": "italic",$/;"	s	object:tokenColors.26.settings
+fontStyle	themes/Better Cobalt-color-theme.json	/^        "fontStyle": "underline",$/;"	s	object:tokenColors.27.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#0066cc"$/;"	s	object:tokenColors.1.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#3ad900"$/;"	s	object:tokenColors.3.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#5493d3"$/;"	s	object:tokenColors.27.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#5fe460"$/;"	s	object:tokenColors.16.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#80FCFF"$/;"	s	object:tokenColors.11.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#80FFBB"$/;"	s	object:tokenColors.2.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#80ffbb"$/;"	s	object:tokenColors.20.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#80ffc2"$/;"	s	object:tokenColors.4.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#9eff80"$/;"	s	object:tokenColors.5.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#9effff"$/;"	s	object:tokenColors.13.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#B8FFD9"$/;"	s	object:tokenColors.26.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#C1AFFF"$/;"	s	object:tokenColors.25.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#C8E4FD"$/;"	s	object:tokenColors.23.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#bbbbbb"$/;"	s	object:tokenColors.12.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#eeffffff",$/;"	s	object:tokenColors.0.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ff628c"$/;"	s	object:tokenColors.7.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ff9d00"$/;"	s	object:tokenColors.15.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ff9d00"$/;"	s	object:tokenColors.17.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ff9d00"$/;"	s	object:tokenColors.9.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffdd00"$/;"	s	object:tokenColors.10.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffdd00"$/;"	s	object:tokenColors.18.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffdd00"$/;"	s	object:tokenColors.19.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffee80"$/;"	s	object:tokenColors.21.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffee80"$/;"	s	object:tokenColors.8.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffffff"$/;"	s	object:tokenColors.14.settings
+foreground	themes/Better Cobalt-color-theme.json	/^        "foreground": "#ffffff"$/;"	s	object:tokenColors.6.settings
+label	package.json	/^        "label": "Better Cobalt",$/;"	s	object:contributes.themes.0
+name	.vscode/launch.json	/^            "name": "Launch Extension",$/;"	s	object:configurations.0
+name	package.json	/^  "name": "better-cobalt",$/;"	s
+name	themes/Better Cobalt-color-theme.json	/^      "name": "CSS Selector Class",$/;"	s	object:tokenColors.16
+name	themes/Better Cobalt-color-theme.json	/^      "name": "CSS Selector ID",$/;"	s	object:tokenColors.17
+name	themes/Better Cobalt-color-theme.json	/^      "name": "CSS Selector attribute",$/;"	s	object:tokenColors.19
+name	themes/Better Cobalt-color-theme.json	/^      "name": "CSS Selector pseudo",$/;"	s	object:tokenColors.18
+name	themes/Better Cobalt-color-theme.json	/^      "name": "CSS property",$/;"	s	object:tokenColors.20
+name	themes/Better Cobalt-color-theme.json	/^      "name": "CSS value",$/;"	s	object:tokenColors.21
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Comment",$/;"	s	object:tokenColors.1
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Constant",$/;"	s	object:tokenColors.7
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Entity",$/;"	s	object:tokenColors.10
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Entity: Inherited class",$/;"	s	object:tokenColors.11
+name	themes/Better Cobalt-color-theme.json	/^      "name": "HTML tag",$/;"	s	object:tokenColors.13
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Interpolation source",$/;"	s	object:tokenColors.6
+name	themes/Better Cobalt-color-theme.json	/^      "name": "JSX tag content",$/;"	s	object:tokenColors.14
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Keyword",$/;"	s	object:tokenColors.9
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Markup Bold",$/;"	s	object:tokenColors.25
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Markup Italic",$/;"	s	object:tokenColors.26
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Markup Link",$/;"	s	object:tokenColors.27
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Markup Raw",$/;"	s	object:tokenColors.24
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Markup heading symbol",$/;"	s	object:tokenColors.23
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Regexp",$/;"	s	object:tokenColors.4
+name	themes/Better Cobalt-color-theme.json	/^      "name": "SASS &",$/;"	s	object:tokenColors.15
+name	themes/Better Cobalt-color-theme.json	/^      "name": "String interpolation",$/;"	s	object:tokenColors.5
+name	themes/Better Cobalt-color-theme.json	/^      "name": "String",$/;"	s	object:tokenColors.3
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Support",$/;"	s	object:tokenColors.2
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Type",$/;"	s	object:tokenColors.8
+name	themes/Better Cobalt-color-theme.json	/^      "name": "Variable",$/;"	s	object:tokenColors.12
+name	themes/Better Cobalt-color-theme.json	/^  "name": "Better Cobalt",$/;"	s
+panel.background	themes/Better Cobalt-color-theme.json	/^    "panel.background": "#030711",$/;"	s	object:colors
+path	package.json	/^        "path": ".\/themes\/Better Cobalt-color-theme.json"$/;"	s	object:contributes.themes.0
+publisher	package.json	/^  "publisher": "afgomez",$/;"	s
+repository	package.json	/^  "repository": "github:afgomez\/better-cobalt.vscode",$/;"	s
+request	.vscode/launch.json	/^            "request": "launch",$/;"	s	object:configurations.0
+runtimeExecutable	.vscode/launch.json	/^            "runtimeExecutable": "${execPath}",$/;"	s	object:configurations.0
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["comment", "punctuation.definition.comment"],$/;"	a	object:tokenColors.1
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.name.tag.reference"],$/;"	a	object:tokenColors.15
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.other.attribute-name.class"],$/;"	a	object:tokenColors.16
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.other.attribute-name.id"],$/;"	a	object:tokenColors.17
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["entity.other.attribute-name.pseudo-element"],$/;"	a	object:tokenColors.18
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.bold"],$/;"	a	object:tokenColors.25
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.heading punctuation.definition.heading"],$/;"	a	object:tokenColors.23
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.italic"],$/;"	a	object:tokenColors.26
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.raw"],$/;"	a	object:tokenColors.24
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["markup.underline.link"],$/;"	a	object:tokenColors.27
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.attribute-selector"],$/;"	a	object:tokenColors.19
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.jsx.children"],$/;"	a	object:tokenColors.14
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["meta.template.expression", "source meta.embedded"],$/;"	a	object:tokenColors.6
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["string"],$/;"	a	object:tokenColors.3
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["string.regexp"],$/;"	a	object:tokenColors.4
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["support.constant.property-value.css"],$/;"	a	object:tokenColors.21
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": ["support.type.property-name"],$/;"	a	object:tokenColors.20
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.10
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.11
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.12
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.13
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.2
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.5
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.7
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.8
+scope	themes/Better Cobalt-color-theme.json	/^      "scope": [$/;"	a	object:tokenColors.9
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.0
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.1
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.10
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.11
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.12
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.13
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.14
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.15
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.16
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.17
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.18
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.19
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.2
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.20
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.21
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.23
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.24
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.25
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.26
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.27
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.3
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.4
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.5
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.6
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.7
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.8
+settings	themes/Better Cobalt-color-theme.json	/^      "settings": {$/;"	o	object:tokenColors.9
+sideBar.background	themes/Better Cobalt-color-theme.json	/^    "sideBar.background": "#030711",$/;"	s	object:colors
+sideBarTitle.foreground	themes/Better Cobalt-color-theme.json	/^    "sideBarTitle.foreground": "#bbbbbb",$/;"	s	object:colors
+tab.inactiveBackground	themes/Better Cobalt-color-theme.json	/^    "tab.inactiveBackground": "#030711",$/;"	s	object:colors
+terminal.background	themes/Better Cobalt-color-theme.json	/^    "terminal.background": "#000000"$/;"	s	object:colors
+themes	package.json	/^    "themes": [$/;"	a	object:contributes
+tokenColors	themes/Better Cobalt-color-theme.json	/^  "tokenColors": [$/;"	a
+type	.vscode/launch.json	/^            "type": "extensionHost",$/;"	s	object:configurations.0
+type	themes/Better Cobalt-color-theme.json	/^  "type": "dark",$/;"	s
+uiTheme	package.json	/^        "uiTheme": "vs-dark",$/;"	s	object:contributes.themes.0
+version	.vscode/launch.json	/^    "version": "0.1.0",$/;"	s
+version	package.json	/^  "version": "0.0.6",$/;"	s
+vscode	package.json	/^    "vscode": "^1.16.0"$/;"	s	object:engines

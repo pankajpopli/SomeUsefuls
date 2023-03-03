@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ports=$(jupyter notebook list | awk -F[:/] '{print $5}')
+for port in $ports 
+do
+    kill -9  $(lsof -n -i4TCP:$port | awk '{print $2}' | tail -1)
+    echo  -e  "killed jupyter $port"
+done

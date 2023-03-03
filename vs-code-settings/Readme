@@ -1,0 +1,2 @@
+1) copy the settings into json file from jsonc for respective machine(linux or mac)
+2) copy the cobalt theme folder in ~/.vscode/extension/... themes folder

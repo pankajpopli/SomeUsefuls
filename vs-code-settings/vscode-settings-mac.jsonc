@@ -1,0 +1,67 @@
+//mac
+{ 
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#ff9d00",
+        "editorIndentGuide.background": "#4f94cd"
+    },
+    //"editor.semanticTokenColorCustomizations": null,    
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [{
+            "scope": "punctuation",
+            "settings": {
+                "foreground": "#ff9d00"
+            },
+        }]
+    },
+    
+ 
+    "editor.cursorWidth": 2,
+    "editor.minimap.enabled": false,
+    "extensions.autoUpdate": false,
+    "editor.smoothScrolling": true,
+    "editor.scrollbar.verticalScrollbarSize": 25,
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Better Cobalt",
+    "editor.tabSize": 3,
+    "workbench.editor.openPositioning": "last",
+    "workspaceSidebar.folder": "/Volumes/backup_mac/run-low-stokes-linux/",
+    "workspaceSidebar.depth": 5,
+    "editor.columnSelection": false,
+    "editor.renderControlCharacters": false,
+    "settingsSync.ignoredExtensions": [
+        
+    ],
+    "files.autoSave": "afterDelay",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.defaultInterpreterPath": "/Applications/anaconda3/bin/python",
+    "python.autoComplete.extraPaths": [
+    ],
+    "python.analysis.extraPaths": [],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "right"
+    },
+    "python.pythonPath": "/opt/anaconda/bin/python",
+    "settingsSync.ignoredSettings": [
+        // "-python.defaultInterpreterPath"
+    ],
+    "jupyter.askForKernelRestart": false,
+    "notebook.consolidatedRunButton": true,
+    
+    "jupyter.runStartupCommands": [
+        "%config IPCompleter.use_jedi = false"
+    ],
+    
+    "jupyter.enablePlotViewer": false,
+    "notebook.lineNumbers": "on",
+    "vscode-json-editor.theme": "light",
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "git.enableSmartCommit": true,
+    "editor.guides.bracketPairs": "active",
+    "liveServer.settings.donotShowInfoMsg": true,
+}

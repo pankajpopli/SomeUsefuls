@@ -1,0 +1,3 @@
+- Download and save these scripts in a folder.
+- In your ~/.bashrc file include the folder in your $PATH variable.
+- export PATH="$PATH:/path/to/the/folder/containing/script/"

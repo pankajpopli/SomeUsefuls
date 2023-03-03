@@ -1,0 +1,28 @@
+{
+	"name": "better-cobalt",
+	"displayName": "Better Cobalt",
+	"description": "Cobalt, but better",
+	"version": "0.0.8",
+	"publisher": "afgomez",
+	"repository": "github:afgomez/better-cobalt.vscode",
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Better Cobalt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Better Cobalt-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9c16c96c-b9df-4626-8862-e79b9a73af0e",
+		"publisherId": "8637c2c3-e016-458a-afd6-b2663cc4580b",
+		"publisherDisplayName": "Alejandro Fernández"
+	}
+}
